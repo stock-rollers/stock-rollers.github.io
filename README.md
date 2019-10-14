@@ -8,4 +8,7 @@
 * Everyone has their own account where profiles can be shared
 
 ### [Ground Rules](docs/ground-rules.md)
+
+## [Entity Relationship Diagram](docs/erd.md)
+
 ### [User stories](docs/user-stories.md)
