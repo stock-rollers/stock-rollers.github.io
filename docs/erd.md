@@ -1,3 +1,3 @@
 ## Entity Relationship Diagram
 
-[![Stock Roller ERD](stockRollersERD.png)](stockRollersERD.pdf)
+[![Stock Roller ERD](stockRollersERDv2.png)](stockRollersERDv2.pdf)
