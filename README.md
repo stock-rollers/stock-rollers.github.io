@@ -8,6 +8,10 @@ Stores user favorited stocks alongside the details of each stock.
 Everyone has their own account where profiles can be shared. 
 
 ## Intended Users
+* Investors - A user that is interested in investing and tracking specific
+selected stocks.
+* Someone interested in getting into investing - 
+A user that is interested in stock information.
 
 ## Milestone 1
 * [Entity Relationship Diagram](docs/erd.md)
