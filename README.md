@@ -1,12 +1,18 @@
 # Stock Rollers
 
 ## Description
-Takes top X number of rising stocks from each desired field based on desired price range. 
-Pseudo-randomly picks a stock from each desired field based on our statistical analysis.
-Track the progression of all selected stocks.
-Stores user favorited stocks alongside the details of each stock.
-Everyone has their own account where profiles can be shared. 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Stock Rollers app will help users pick out stocks from desired sectors. 
+Users will be able to choose what sector they want a stock from and then specify a price range.
+After the user is finished selecting parameters, Stock Rollers will display stocks within the specified price range that have also risen 5% within the last 30 days.
+The user will then be able to pick from the displayed stocks or let the random number generator pick their stock for them.
+The user will be able to either reject or accept the randomly generated stock.
+The previously selected stocks will all be displayed as favorites on the users home page along with a link to graph data for each stock.
+Stock rollers will not be purchasing the stocks for the user but rather helping the user in choosing the stocks.
+All users will have the ability to follow other users that have their profile set to public and see their stock selections. 
+Users will be able to view which users are following a particular stock.
+In general our app is built to connect new and old investors.
+ 
+ 
 ## Intended Users
 * Investors - A user that is interested in investing and tracking specific
 selected stocks.
