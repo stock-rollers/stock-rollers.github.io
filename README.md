@@ -26,5 +26,5 @@ A user that is interested in stock information.
     * [User](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/User.java)  
     * [Stock](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/Stock.java)
     
-    
+
 ## [Ground Rules](docs/ground-rules.md)
