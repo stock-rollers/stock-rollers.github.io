@@ -29,10 +29,10 @@ A user that is interested in stock information.
     
     
 ## Tools
-*[Draw.io]()
-*[Github]()    
+* [Draw.io]()
+* [Github]()    
 
 
 ## Resources 
-*[Data Model Implementation Scenarios]()
-*[Rubric]()
+* [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html#student-absences-one-to-many-with-dependent-entities)
+* [Rubric](https://deep-dive-coding-java-cohort-8.github.io/2019/11/03/capstone-milestone-2-rubric.html)
