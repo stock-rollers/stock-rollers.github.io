@@ -17,6 +17,10 @@
 ## Daily Scrums
 * Daily stand-ups after class and communicate barriers beforehand
 
+## E-Sign:
 
-
+* Quentin Dye [x]
+* Andrew Patten [x]
+* Khasiano Webb [x]
+ 
 
