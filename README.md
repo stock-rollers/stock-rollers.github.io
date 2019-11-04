@@ -23,6 +23,7 @@ A user that is interested in stock information.
 * [Entity Relationship Diagram](docs/erd.md)
 * [User stories](docs/user-stories.md)
 * [Ground Rules](docs/ground-rules.md)
+* [Milestones](docs/milestones.md)
 * Entity Classes  
     * [User](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/User.java)  
     * [Stock](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/Stock.java)
