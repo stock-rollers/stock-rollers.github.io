@@ -1,5 +1,8 @@
 ## Ground Rules
 
+---
+Stock Rollers
+
 ## How will we communicate:
 * Slack
 * Text
