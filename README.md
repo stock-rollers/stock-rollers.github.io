@@ -19,17 +19,20 @@ selected stocks.
 * Someone interested in getting into investing - 
 A user that is interested in stock information.
 
-## Milestone 1
+## Links
 * [Entity Relationship Diagram](docs/erd.md)
 * [User stories](docs/user-stories.md)
+* [Ground Rules](docs/ground-rules.md)
 * Entity Classes  
     * [User](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/User.java)  
     * [Stock](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/Stock.java)
     
     
-## Milestone 2
-*
-*
-*    
+## Tools
+*[Draw.io]()
+*[Github]()    
 
-## [Ground Rules](docs/ground-rules.md)
+
+## Resources 
+*[Data Model Implementation Scenarios]()
+*[Rubric]()
