@@ -19,17 +19,17 @@ selected stocks.
 * New Investor - A user that is interested in stock information.
 
 ## Milestone 2
-### Team Roster
- * Andrew Patten
- * Quentin Dye
- * Khasiano Webb
-
-* [User stories](docs/user-stories.md)
-* [Wireframes](docs/wireframes.md)
-* [Entity Relationship Diagram](docs/erd.md)
+* Team Roster
+    * Andrew Patten
+    * Quentin Dye
+    * Khasiano Webb
+* Users Stories, ERD and Wireframes
+    * [User stories](docs/user-stories.md)
+    * [Wireframes](docs/wireframes.md)
+    * [Entity Relationship Diagram](docs/erd.md)
 * Entity Classes  
-    * [User](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/User.java)   
-    * [Stock](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/Stock.java) 
+    * [User](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/entity/User.java)   
+    * [Stock](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/entity/Stock.java) 
     * [Industry](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/entity/Industry.java) 
     * [History](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/entity/History.java) 
     * [DataPoint](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/entity/DataPoint.java) 
@@ -61,6 +61,6 @@ selected stocks.
 * [Rubric](https://deep-dive-coding-java-cohort-8.github.io/2019/11/03/capstone-milestone-2-rubric.html)
 
 ## Miscellaneos
-* [Milestones](docs/milestones.md)
+* [Milestones Checklist](docs/milestones.md)
 * [Ground Rules](docs/ground-rules.md)
     
