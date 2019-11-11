@@ -47,8 +47,8 @@ selected stocks.
     * [DataPointController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/DataPointController.java)
 * Application logic services
     * [WorldTradingDataService](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/service/WorldTradingDataService.java)
-    * [StockRollersDatabase](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/service/StockrollersDatabase.java)
     * [RequestWorldTradingData](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/service/RequestWorldTradingData.java)
+    * [UserService](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/service/UserService.java)
     * [StockrollersServiceApplication](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/StockrollersServiceApplication.java)
     
 ## Tools
@@ -60,7 +60,7 @@ selected stocks.
 * [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html#student-absences-one-to-many-with-dependent-entities)
 * [Rubric](https://deep-dive-coding-java-cohort-8.github.io/2019/11/03/capstone-milestone-2-rubric.html)
 
-## Miscellaneos
+## Miscellaneous
 * [Milestones Checklist](docs/milestones.md)
 * [Ground Rules](docs/ground-rules.md)
     
