@@ -32,19 +32,16 @@ selected stocks.
     * [Stock](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/entity/Stock.java) 
     * [Industry](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/entity/Industry.java) 
     * [History](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/entity/History.java) 
-    * [DataPoint](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/entity/DataPoint.java) 
 * Repository Interfaces
     * [UserRepository](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/dao/UserRepository.java)
     * [StockRepository](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/dao/StockRepository.java)
     * [IndustryRepository](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/dao/IndustryRepository.java)
     * [HistoryRepository](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/dao/HistoryRepository.java)
-    * [DataPointRepository](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/model/dao/DataPointRepository.java)
 * REST controllers 
     * [UserController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/UserController.java)
     * [StockController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/StockController.java)
     * [IndustryController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/IndustryController.java)
     * [HistoryController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/HistoryController.java)
-    * [DataPointController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/DataPointController.java)
 * Application logic services
     * [WorldTradingDataService](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/service/WorldTradingDataService.java)
     * [RequestWorldTradingData](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/service/RequestWorldTradingData.java)
