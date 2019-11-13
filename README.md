@@ -41,7 +41,7 @@ selected stocks.
     * [UserController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/UserController.java)
     * [StockController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/StockController.java)
     * [IndustryController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/IndustryController.java)
-    * [HistoryController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/HistoryController.java) Currently not functional
+    * [HistoryController](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/controller/HistoryController.java)
 * Application logic services
     * [WorldTradingDataService](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/service/WorldTradingDataService.java)
     * [RequestWorldTradingData](https://github.com/stock-rollers/stockrollers-service/blob/master/src/main/java/edu/cnm/deepdive/stockrollersservice/service/RequestWorldTradingData.java)
