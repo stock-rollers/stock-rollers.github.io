@@ -1,2 +1,2 @@
 ## Wireframes
-[![wireframes](wireframes.png)](wireframes.pdf)
+[![wireframes](stock-rollers.png)](stock-rollers.pdf)
