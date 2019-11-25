@@ -1,6 +1,11 @@
 # Stock Rollers
 
-## Description
+### Team Members
+* [Andrew Patten](https://github.com/Andpatten)
+* [Quentin Dye](https://github.com/Quentin-D-NM)
+* [Khasiano Webb](https://github.com/NewbieCoder10)
+
+## Project Description
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Stock Rollers app will help users pick out stocks from desired industries. 
 Users will be able to choose what industry they want a stock from and then specify a price range.
 After the user is finished selecting parameters, Stock Rollers will display stocks within the specified price range that have also risen 5% within the last 30 days.
@@ -18,11 +23,25 @@ In general our app is built to connect new and old investors.
 selected stocks.
 * New Investor - A user that is interested in stock information.
 
-## Milestone 2
+## Stock-rollers - overview. 
+
+
+
+
+
+## Summary of current state of the app
+* The current state of the app so far is that, 
+
+
+
+
+
+## Milestone 3
 * Team Roster
-    * Andrew Patten
-    * Quentin Dye
-    * Khasiano Webb
+    * Andrew Patten - Role was to, 
+    * Quentin Dye - Role was to,  
+    * Khasiano Webb - Role was to, 
+    
 * Users Stories, ERD and Wireframes
     * [User stories](docs/user-stories.md)
     * [Wireframes](docs/wireframes.md)

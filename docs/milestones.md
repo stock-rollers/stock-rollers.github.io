@@ -17,5 +17,29 @@
 + [x] ERDs
 + [x] Entity classes
 + [x] Repository Interfaces 
-+ [ ] REST Controllers & Application Logic Services 
-+ [ ] Client-side Authentication with Token Logging
++ [x] REST Controllers & Application Logic Services 
++ [x] Client-side Authentication with Token Logging
+
+
+### [Third Milestone Deliverable (December 6, 2019)](https://deep-dive-coding-java-cohort-8.github.io/2019/11/22/capstone-project-milestone-3-rubric)
+
+##### Overview and functional documentation.
++ [] Sensitive Content
++ [] Team Roster/Role
++ [] Project Description
++ [] Intended Users
++ [] PDF Overview
++ [] User Stories
++ [] Summary of current state of the project
++ [] Wireframes 
+
+
+##### Technical documentation
++ [] Backend - technological stack 
++ [] Frontend - technological stack 
++ [] ERDs
++ [] DDL
++ [] Javadoc's (On each class)
++ [] Copyright and license
++ [] Build Instruction's
++ [] Basic User Instruction's
