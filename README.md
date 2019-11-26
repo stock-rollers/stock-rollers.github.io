@@ -47,6 +47,7 @@ The overview of the Stock-rollers app is that,
 * Technical Documentation
     * [Entity Relationship Diagram](docs/erd.md)
     * [DDL](ddl.md)
+    * [Outlines of technology stacks-Backend](Backend.md), [Frontend](Frontend.md)
     
 * Users Stories, ERD and Wireframes
     * [User stories](docs/user-stories.md)
