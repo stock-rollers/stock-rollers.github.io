@@ -38,6 +38,13 @@ selected stocks.
 
 ## Milestone 3
 * Team Roster
+    * Andrew Patten - Primary role: Project lead and server side developer.  
+    * Quentin Dye - Primary role: Server side main developer and android client side developer. 
+    * Khasiano Webb - Primary role: UI developer.  
+    
+* Technical Documentation
+    * [Entity Relationship Diagram](docs/erd.md)
+    * [DDL](ddl.md)
     * Andrew Patten - Role was to, 
     * Quentin Dye - Role was to,  
     * Khasiano Webb - Role was to, 
