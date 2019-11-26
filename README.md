@@ -1,9 +1,11 @@
 # Stock Rollers
 
+## [GitHub](https://github.com/stock-rollers)
+
 ### Team Members
-* [Andrew Patten](https://github.com/Andpatten)
-* [Quentin Dye](https://github.com/Quentin-D-NM)
-* [Khasiano Webb](https://github.com/NewbieCoder10)
+* [Andrew Patten- Github](https://github.com/Andpatten) 
+* [Quentin Dye - Github](https://github.com/Quentin-D-NM)
+* [Khasiano Webb - Github](https://github.com/NewbieCoder10)
 
 ## Project Description
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Stock Rollers app will help users pick out stocks from desired industries. 
@@ -24,7 +26,7 @@ selected stocks.
 * New Investor - A user that is interested in stock information.
 
 ## Stock-rollers - overview. 
-
+The overview of the Stock-rollers app is that, 
 
 
 
