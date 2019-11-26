@@ -3,9 +3,9 @@
 ## [GitHub](https://github.com/stock-rollers)
 
 ### Team Members
-* [Andrew Patten- Github](https://github.com/Andpatten) 
-* [Quentin Dye - Github](https://github.com/Quentin-D-NM)
-* [Khasiano Webb - Github](https://github.com/NewbieCoder10)
+* [Andrew Patten- Github](https://github.com/Andpatten), [LinkedIn](https://www.linkedin.com/in/andpatten/)
+* [Quentin Dye - Github](https://github.com/Quentin-D-NM), [LinkedIn](https://www.linkedin.com/in/quentindye/)
+* [Khasiano Webb - Github](https://github.com/NewbieCoder10), [LinkedIn](https://www.linkedin.com/in/khasiano-webb/) 
 
 ## Project Description
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Stock Rollers app will help users pick out stocks from desired industries. 
@@ -47,9 +47,6 @@ The overview of the Stock-rollers app is that,
 * Technical Documentation
     * [Entity Relationship Diagram](docs/erd.md)
     * [DDL](ddl.md)
-    * Andrew Patten - Role was to, 
-    * Quentin Dye - Role was to,  
-    * Khasiano Webb - Role was to, 
     
 * Users Stories, ERD and Wireframes
     * [User stories](docs/user-stories.md)

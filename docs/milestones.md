@@ -25,20 +25,20 @@
 
 ##### Overview and functional documentation.
 + [] Sensitive Content
-+ [] Team Roster/Role
-+ [] Project Description
-+ [] Intended Users
++ [x] Team Roster/Role
++ [x] Project Description
++ [x] Intended Users
 + [] PDF Overview
-+ [] User Stories
++ [x] User Stories
 + [] Summary of current state of the project
-+ [] Wireframes 
++ [x] Wireframes 
 
 
 ##### Technical documentation
 + [] Backend - technological stack 
-+ [] Frontend - technological stack 
-+ [] ERDs
-+ [] DDL
++ [x] Frontend - technological stack 
++ [x] ERDs
++ [x] DDL
 + [] Javadoc's (On each class)
 + [] Copyright and license
 + [] Build Instruction's
