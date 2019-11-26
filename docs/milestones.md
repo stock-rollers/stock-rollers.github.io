@@ -35,7 +35,7 @@
 
 
 ##### Technical documentation
-+ [] Backend - technological stack 
++ [x] Backend - technological stack 
 + [x] Frontend - technological stack 
 + [x] ERDs
 + [x] DDL
