@@ -81,7 +81,7 @@ The overview of the Stock-rollers app is that,
 
 ## Resources 
 * [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html#student-absences-one-to-many-with-dependent-entities)
-* [Rubric](https://deep-dive-coding-java-cohort-8.github.io/2019/11/03/capstone-milestone-2-rubric.html)
+* [Rubric](https://deep-dive-coding-java-cohort-8.github.io/2019/11/22/capstone-project-milestone-3-rubric)
 
 ## Miscellaneous
 * [Milestones Checklist](docs/milestones.md)
