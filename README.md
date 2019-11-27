@@ -32,7 +32,10 @@ The overview of the Stock-rollers app is that,
 
 
 ## Summary of current state of the app
-* The current state of the app so far is that, 
+* The current state of the app so far is that, you are able to sign in, using the Google Sign In 
+service. Then you are able to navigate through the home page of different tabs, from the home,
+search bar, and the account. Currently working on the information that is presented on the screen,
+that being the stock information that is returned.
 
 
 

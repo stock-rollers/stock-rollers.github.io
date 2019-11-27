@@ -28,7 +28,7 @@
 + [x] Team Roster/Role
 + [x] Project Description
 + [x] Intended Users
-+ [] PDF Overview
++ [x] PDF Overview
 + [x] User Stories
 + [] Summary of current state of the project
 + [x] Wireframes 
