@@ -1,4 +1,4 @@
-## DDL
+## DDL Files 
 
-[![DDL- Server](ddl.sql)]
-[![DDL- Client]]("ddlFileHere")
+[![DDL Server](ddl-server.md)] 
+[![DDL Client](ddl-client.md)]
