@@ -3,9 +3,9 @@
 ## [GitHub](https://github.com/stock-rollers)
 
 ### Team Members
-* [Andrew Patten- Github](https://github.com/Andpatten) 
-* [Quentin Dye - Github](https://github.com/Quentin-D-NM)
-* [Khasiano Webb - Github](https://github.com/NewbieCoder10)
+* [Andrew Patten- Github](https://github.com/Andpatten), [LinkedIn](https://www.linkedin.com/in/andpatten/)
+* [Quentin Dye - Github](https://github.com/Quentin-D-NM), [LinkedIn](https://www.linkedin.com/in/quentindye/)
+* [Khasiano Webb - Github](https://github.com/NewbieCoder10), [LinkedIn](https://www.linkedin.com/in/khasiano-webb/) 
 
 ## Project Description
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Stock Rollers app will help users pick out stocks from desired industries. 
@@ -32,7 +32,10 @@ The overview of the Stock-rollers app is that,
 
 
 ## Summary of current state of the app
-* The current state of the app so far is that, 
+* The current state of the app so far is that, you are able to sign in, using the Google Sign In 
+service. Then you are able to navigate through the home page of different tabs, from the home,
+search bar, and the account. Currently working on the information that is presented on the screen,
+that being the stock information that is returned.
 
 
 
@@ -46,10 +49,8 @@ The overview of the Stock-rollers app is that,
     
 * Technical Documentation
     * [Entity Relationship Diagram](docs/erd.md)
-    * [DDL](ddl.md)
-    * Andrew Patten - Role was to, 
-    * Quentin Dye - Role was to,  
-    * Khasiano Webb - Role was to, 
+    * [DDL](docs/ddl.md)
+    * [Outlines of technology stacks-Backend](docs/Backend.md), [Frontend](docs/Frontend.md)
     
 * Users Stories, ERD and Wireframes
     * [User stories](docs/user-stories.md)
@@ -83,7 +84,7 @@ The overview of the Stock-rollers app is that,
 
 ## Resources 
 * [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html#student-absences-one-to-many-with-dependent-entities)
-* [Rubric](https://deep-dive-coding-java-cohort-8.github.io/2019/11/03/capstone-milestone-2-rubric.html)
+* [Rubric](https://deep-dive-coding-java-cohort-8.github.io/2019/11/22/capstone-project-milestone-3-rubric)
 
 ## Miscellaneous
 * [Milestones Checklist](docs/milestones.md)
