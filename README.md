@@ -26,7 +26,9 @@ selected stocks.
 * New Investor - A user that is interested in stock information.
 
 ## Stock-rollers - overview. 
-The overview of the Stock-rollers app is that, 
+The overview of the Stock-rollers app is that, with this app you will be able to track and keep up
+with selected stocks information. Also you will be able to follow users to see what other stocks
+would be good to invest in, or just watch for future investments.
 
 
 
