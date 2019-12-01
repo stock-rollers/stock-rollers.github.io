@@ -53,6 +53,7 @@ that being the stock information that is returned.
     * [Entity Relationship Diagram](docs/erd.md)
     * [DDL](docs/ddl.md)
     * [Outlines of technology stacks-Backend](docs/Backend.md), [Frontend](docs/Frontend.md)
+    * [Build Instruction's](docs/BuildInstructions.md)
     
 * Users Stories, ERD and Wireframes
     * [User stories](docs/user-stories.md)
