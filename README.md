@@ -13,6 +13,7 @@ Users will be able to choose what industry they want a stock from and then speci
 After the user is finished selecting parameters, Stock Rollers will display stocks within the specified price range that have also risen 5% within the last 30 days.
 The user will then be able to pick from the displayed stocks or let the random number generator pick their stock for them.
 The user will be able to either reject or accept the randomly generated stock.
+
 The previously selected stocks will all be displayed as favorites on the users home page along with a link to graph data for each stock.
 Stock rollers will not be purchasing the stocks for the user but rather helping the user in choosing the stocks.
 All users will have the ability to follow other users that have their profile set to public and see their stock selections. 
@@ -21,9 +22,14 @@ In general our app is built to connect new and old investors.
  
  
 ## Intended Users
-* Investors - A user that is interested in investing and tracking specific
-selected stocks.
-* New Investor - A user that is interested in stock information.
+* Investors - A user that is interested in investing and tracking specific selected stocks by
+specifying the price range, and industry. Also, being able to view previous and future outlook
+on any specific stock.
+
+* New Investor - A user that is interested in learning about stock information, will be able
+to follow other users who have already previously invested. This will allow them to see the
+outlook of their investment's, by tracking the previous and future prices to decide what is
+best to invest into .
 
 ## Stock-rollers
 The overview of the Stock-rollers app is that, with this app you will be able to track and keep up
@@ -33,13 +39,11 @@ would be good to invest in, or just watch for future investments.
 [PDF Overview](docs/Stock-rollers-rough-draft.pdf)  
 
 
-
 ## Summary of current state of the app
 * The current state of the app so far is that, you are able to sign in, using the Google Sign In 
 service. Then you are able to navigate through the home page of different tabs, from the home,
 search bar, and the profile. Currently working on the information that is presented on the screen,
 that being the stock information that is returned.
-
 
 
 
