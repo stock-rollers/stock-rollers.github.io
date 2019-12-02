@@ -36,7 +36,9 @@ The overview of the Stock-rollers app is that, with this app you will be able to
 with selected stocks information. Also you will be able to follow users to see what other stocks
 would be good to invest in, or just watch for future investments.
 
-[![PDF Overview](docs/stock-rollers.png)](docs/overview.pdf)  
+[PDF Overview](docs/overview.pdf) 
+
+[Wireframe](docs/stock-rollers.png) 
 
 
 ## Summary of current state of the app
