@@ -30,7 +30,7 @@
 + [x] Intended Users
 + [x] PDF Overview
 + [x] User Stories
-+ [] Summary of current state of the project
++ [x] Summary of current state of the project
 + [x] Wireframes 
 
 
@@ -41,5 +41,5 @@
 + [x] DDL
 + [] Javadoc's (On each class)
 + [] Copyright and license
-+ [] Build Instruction's
-+ [] Basic User Instruction's
++ [x] Build Instruction's
++ [x] Basic User Instruction's

@@ -3,7 +3,8 @@
 to sign-in with their credentials.
 
 * Once the User is in the app, they will then be on the main page of the app, it will
-have a home navigation tab with, the account, settings and a search view in the middle.
+have a home navigation tab with on the bottom right side, a search bar in the middle,
+and the account tab on the right bottom corner. 
 
 * There will be a setting's icon located in the top right of the app, that will allow
 the User to sign-out or go to the settings main-page. 
