@@ -38,8 +38,6 @@ would be good to invest in, or just watch for future investments.
 
 [PDF Overview](docs/overview.pdf) 
 
-[Wireframe](docs/stock-rollers.png) 
-
 
 ## Summary of current state of the app
 * The current state of the app so far is that, you are able to sign in, using the Google Sign In 
