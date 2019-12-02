@@ -45,6 +45,16 @@ service. Then you are able to navigate through the home page of different tabs, 
 search bar, and the profile. Currently working on the information that is presented on the screen,
 that being the stock information that is returned.
 
+##### Aesthetic/Cosmetic Improvements that would improve the app.
+* Change the Main Color of the app, via settings.
+* Change the Background-Color of the app, via settings.
+* Change the font-type style of the app.
+* Create a way to share updates on facebook.
+
+##### Stretch Goals
+* We could possible work on the colors if we decide to change them.
+* We could possible update the font height when needed/wanted.
+* Changing the app to shift when the landscape of the phone is turned.
 
 
 ## Milestone 3
