@@ -25,20 +25,20 @@ In general our app is built to connect new and old investors.
 selected stocks.
 * New Investor - A user that is interested in stock information.
 
-## Stock-rollers - overview. 
+## [Stock-rollers]
 The overview of the Stock-rollers app is that, with this app you will be able to track and keep up
 with selected stocks information. Also you will be able to follow users to see what other stocks
 would be good to invest in, or just watch for future investments.
 
+[PDF Overview](docs/Stock-rollers-rough-draft.pdf)  
 
 
 
 ## Summary of current state of the app
 * The current state of the app so far is that, you are able to sign in, using the Google Sign In 
 service. Then you are able to navigate through the home page of different tabs, from the home,
-search bar, and the account. Currently working on the information that is presented on the screen,
+search bar, and the profile. Currently working on the information that is presented on the screen,
 that being the stock information that is returned.
-
 
 
 
