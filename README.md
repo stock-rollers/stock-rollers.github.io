@@ -25,7 +25,7 @@ In general our app is built to connect new and old investors.
 selected stocks.
 * New Investor - A user that is interested in stock information.
 
-## [Stock-rollers]
+## Stock-rollers
 The overview of the Stock-rollers app is that, with this app you will be able to track and keep up
 with selected stocks information. Also you will be able to follow users to see what other stocks
 would be good to invest in, or just watch for future investments.
