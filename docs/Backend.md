@@ -1,6 +1,4 @@
 * Apache Derby
-* 
-*
 * JRE 8
 * Web service application, incorporating.
     * Data Model
