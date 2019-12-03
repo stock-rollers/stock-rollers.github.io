@@ -43,7 +43,9 @@ would be good to invest in, or just watch for future investments.
 * The current state of the app so far is that, you are able to sign in, using the Google Sign In 
 service. Then you are able to navigate from the home page to the search bar view, and the account.
 There is a dice roll button located above the profile which when clicked will, roll a random stock.
-Currently working on the information that is presented on the screen, when a stock is chosen.
+It will then print a specific stock name on the screen, you can then click on that and it will pull
+up the current information for that stock. Currently working on how the look of the graph is 
+represented on the app.
 
 #### Aesthetic/Cosmetic Improvements that would improve the app.
 * Change the Main Color of the app, via settings.
