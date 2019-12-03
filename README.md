@@ -68,6 +68,7 @@ Currently working on the information that is presented on the screen, when a sto
     * [DDL](docs/ddl.md)
     * [Outlines of technology stacks-Backend](docs/Backend.md), [Frontend](docs/Frontend.md)
     * [Build Instruction's](docs/BuildInstructions.md)
+    * [User Instruction's](docs/UserInstructions.md)
     
 * Users Stories, ERD and Wireframes
     * [User stories](docs/user-stories.md)
