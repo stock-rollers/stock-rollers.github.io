@@ -38,7 +38,7 @@ would be good to invest in, or just watch for future investments.
 
 [PDF Overview](docs/Stock-rollers(2).pdf) 
 
-
+  
 ## Summary of current state of the app
 * The current state of the app so far is that, you are able to sign in, using the Google Sign In 
 service. Then you are able to navigate from the home page to the search bar view, and the account
