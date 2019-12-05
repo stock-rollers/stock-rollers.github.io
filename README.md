@@ -36,16 +36,18 @@ The overview of the Stock-rollers app is that, with this app you will be able to
 with selected stocks information. Also you will be able to follow users to see what other stocks
 would be good to invest in, or just watch for future investments.
 
-[PDF Overview](docs/stock-rollers-two.pdf) 
+[PDF Overview](docs/Stock-rollers(2).pdf) 
 
 
 ## Summary of current state of the app
 * The current state of the app so far is that, you are able to sign in, using the Google Sign In 
-service. Then you are able to navigate from the home page to the search bar view, and the account.
-There is a dice roll button located above the profile which when clicked will, roll a random stock.
-It will then print a specific stock name on the screen, you can then click on that and it will pull
-up the current information for that stock. Currently working on how the look of the graph is 
-represented on the app.
+service. Then you are able to navigate from the home page to the search bar view, and the account
+tab view. There is a dice roll button located above the profile which when clicked will, roll a
+random stock. It will then print a specific stock name on the screen, you can then click on that
+and it will pull up the current information for that stock and the hhistory of that stock. The
+current state of the graph is that it will update as you slide back and forth from left to right
+with updating dates. It will be a stretch goal to possible change the color from settings tab, and
+also fix functionality when in landscape view. 
 
 #### Aesthetic/Cosmetic Improvements that would improve the app.
 * Change the Main Color of the app, via settings.
